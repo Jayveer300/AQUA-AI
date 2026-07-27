@@ -1,0 +1,23 @@
+.main {
+    background: linear-gradient(135deg, #e0f7ff, #ffffff);
+}
+
+.title {
+    text-align: center;
+    color: #0077b6;
+    font-size: 42px;
+    font-weight: bold;
+}
+
+.subtitle {
+    text-align: center;
+    color: #023e8a;
+    font-size: 18px;
+}
+
+.info-box {
+    background: #caf0f8;
+    padding: 15px;
+    border-radius: 12px;
+    margin: 10px 0;
+}
