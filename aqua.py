@@ -72,7 +72,7 @@ st.set_page_config(
 # -----------------------------
 # GEMINI CLIENT
 # -----------------------------
-client = genai.Client(api_key=GEMINI_API_KEY)
+client = genai.Client(api_key=AQ.Ab8RN6Kvr5I2FOQ0bXCZbM25OupCZMMRsnrEDLhYSo93dBJk6Q)
 
 # -----------------------------
 # PROJECT INTRODUCTION
